@@ -13,7 +13,11 @@
 
 ------------------
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krisode&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krisode&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+Thanks for your interest in my profile! Feel free to contact 📫
+
+![](https://komarev.com/ghpvc/?username=krisode&color=orange&style=plastic)
 
 
 <!--
