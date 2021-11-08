@@ -12,12 +12,22 @@
   * Email: _trantrinhdanghuy1406@gmail.com_
 
 ------------------
+<p align="center">
+  <a href="https://github.com/krisode" target="_blank">
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=krisode&show_icons=true&theme=tokyonight" alt="krisode's top languages" />
+ </a>
+   <a href="https://github.com/krisode" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisode&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" alt="krisode's top languages" />
+  </a>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krisode&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 Thanks for your interest in my profile! Feel free to contact 📫
 
+
 ![](https://komarev.com/ghpvc/?username=krisode&color=blue&style=plastic)
+
+
 
 
 <!--
