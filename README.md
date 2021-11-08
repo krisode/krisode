@@ -12,14 +12,9 @@
   * Email: _trantrinhdanghuy1406@gmail.com_
 
 ------------------
-<p align="center">
+<p>
   <a href="https://github.com/krisode" target="_blank">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=krisode&show_icons=true&theme=tokyonight" alt="krisode's top languages" />
- </a>
- </br>
- </br>
-   <a href="https://github.com/krisode" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisode&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" alt="krisode's top languages" />
+   <img src="https://github-readme-stats.vercel.app/api?username=krisode&show_icons=true&theme=tokyonight" alt="krisode's top languages" />
   </a>
 </p>
 
